@@ -19,3 +19,5 @@
 
 ##Inspiration
 * [Awwwards](http://www.awwwards.com/) The latests trends in professional sites. Some very high spec examples here.
+* [Creaive Blog](http://www.creativebloq.com/) A great resource for web design information.
+* [Smashing Magazine] (http://www.smashingmagazine.com/) Lot's of information on all things design and front end.
