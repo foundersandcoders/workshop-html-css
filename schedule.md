@@ -122,3 +122,4 @@ stretch goals
 Day 2
 - html sorting exercise
  - domain and hosting
+ - google analytics
