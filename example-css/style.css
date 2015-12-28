@@ -4,35 +4,64 @@
 
 body {
   margin: 0;
+  width: 100%;
 }
 
 /*nav styling*/
-.nav ul {
-    text-align: right;
-    padding: 1em;
+
+/*floats logo left*/
+.left {
+  float: left;
 }
 
-.nav li {
+/*sizes the logo*/
+.nav img {
+  width: 3.3em;
+}
+
+.nav h1 {
+  margin: 0;
+}
+
+/*helps display nav components inline*/
+.clear {
+  clear: both;
+}
+
+.nav{
+  position: fixed;
+  width: 100%;
+  background-color: white;
+}
+
+.nav-tabs{
+  display: inline-block;
+  padding: 0;
+  float: right;
+}
+
+.nav-tabs li {
+  float: left;
+  margin-right: 20px;
+}
+
+.nav-tabs li {
   display: inline;
   /*display inlines shows the li elements horizontally*/
   text-decoration: none;
   /*removes bullet point styling*/
-  margin: 1em;
   padding: 1em;
-  /*margin and padding at space around the li elemenets */
+  /*margin and padding at space around the li elemenets*/
   background-color: #704C38;
   border-radius: 2em;
 }
 
-/*add effects on hover*/
-.nav li:hover {
+add effects on hover
+.nav-tabs li:hover {
   color: blue;
 }
 
-.nav {
-  color: white;
-  padding: 0.5em;
-}
+
 
 
 /*header styling*/
