@@ -1,0 +1,116 @@
+/*ALL ITEMS*/
+* {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+  width: 100%;
+}
+
+
+/*NAVBAR STYLING*/
+
+.logo-div{
+  width: 30%;
+  float:left;
+}
+.logo-div img{
+  width:8.5em;
+}
+.nav-tabs{
+  width: 68%;
+  float: right;
+  text-align: right;
+}
+
+.nav-tabs li{
+  text-decoration: none;
+  display: inline-block;
+  padding: 1em;
+  /*margin and padding at space around the li elemenets*/
+  background-color: #704C38;
+  border-radius: 2em;
+  margin: 1em;
+  color: white;
+}
+.clear {
+  clear: both;
+}
+
+/*HEADER STYLING*/
+header {
+  text-align: center;
+  background-image: url("https://images.unsplash.com/photo-1431975562098-bac8ded504c7?crop=entropy&fit=crop&fm=jpg&h=850&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1700");
+  padding: 2em;
+}
+
+header h1 {
+  font-family: fantasy;
+  font-size: 6em;
+  margin: 0;
+}
+
+header h3 {
+  font-size: 2.5em;
+  margin: 0;
+  font-weight: 100;
+  color: white;
+}
+
+/*CONTENT STYLING*/
+
+.row{
+  margin: 5em;
+}
+
+.left-div{
+  width: 40%;
+  float: left;
+}
+
+.right-div{
+  width: 58%;
+  float: right;
+  text-align: center;
+}
+.right-div img{
+  width:55em;
+}
+
+/*BOX STYLING*/
+
+.main {
+  text-align: center;
+}
+
+.section-two{
+  background-color: #704C38;
+  width:23%;
+  height:10em;
+  display: inline-block;
+}
+
+.section-two h1 {
+  font-family: fantasy;
+  font-size: 4em;
+  color: white;
+}
+
+.section-two:hover {
+  background-color: #777572;
+}
+
+/*FOOTER*/
+
+footer {
+ margin-top: 1em;
+ text-align: center;
+ padding: 1em;
+ background-color: #777572;
+}
+footer a{
+  color: #704C38;
+  text-decoration: none;
+  font-size: 1.3em;
+}
