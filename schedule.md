@@ -14,8 +14,12 @@ Intro to us and FAC
   - what it can be used for
      **example of restaurant
      **artist of musician
-http://www.fullstopproofreading.com/  
-text editor? Have down loaded?
+http://www.fullstopproofreading.com/ 
+
+text editor? Have you downloaded?
+
+#### Presentaion for HTML and CSS
+https://docs.google.com/presentation/d/19hpTnLNG8hfwcV80mPMmBkUWYAmEnVDy4RYFTrgrnuU/edit
 
 
 
