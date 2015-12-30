@@ -14,7 +14,7 @@ Intro to us and FAC
   - what it can be used for
      **example of restaurant
      **artist of musician
-http://www.fullstopproofreading.com/
+http://www.fullstopproofreading.com/  
 text editor? Have down loaded?
 
 
@@ -123,3 +123,6 @@ Day 2
 - html sorting exercise
  - domain and hosting
  - google analytics
+ - what is github
+ - github pages?
+ - upload there work on github pages.
