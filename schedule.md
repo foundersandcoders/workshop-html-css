@@ -10,14 +10,14 @@ Welcome to FAC!
 - HTML 4 with HTML 5
 - extension Activies
 
-LUNCH
+####LUNCH
 
 ###CSS
 - CSS Presentation
 - CSS Demo
 - Fixing CSS
 
-Short Break
+###Build your own site
 -Building Your Wireframe
 
 #Day 2 Sunday
@@ -27,7 +27,7 @@ Short Break
 - Media Query Demo
 - Make your site responsive
 
-LUNCH
+####LUNCH
 
 - Github talk
 - Github hosting workshop
