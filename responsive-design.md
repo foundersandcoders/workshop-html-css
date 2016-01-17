@@ -1,5 +1,8 @@
 #Responsive Design
 
+##View port meta tag
+`<meta name="viewport" content="width=device-width, initial-scale=1">`
+[More information on what this does from the Mozilla Network](https://developer.mozilla.org/en/docs/Mozilla/Mobile/Viewport_meta_tag)
 
 
 ##Tools
