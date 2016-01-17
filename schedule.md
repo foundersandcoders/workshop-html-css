@@ -30,12 +30,11 @@ http://alisonsandifer.com/
 - !DOCTYPE 
 - html tags
 
-- h1, h2
-- p,
-
-- Head and body
-- indentation and descendants
-- title
+h1, h2
+p,
+Head and body
+indentation and descendants
+title
 
 - ol, ul
 - input checkbox
