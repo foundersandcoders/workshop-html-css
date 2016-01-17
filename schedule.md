@@ -11,7 +11,7 @@
   - examples of statics sites
   - what it can be used for?
   - what would you like to build your site for?
-http://www.fullstopproofreading.com/ 
+http://www.fullstopproofreading.com/
 http://alisonsandifer.com/
 
 
@@ -25,10 +25,11 @@ http://alisonsandifer.com/
 ####HTML Walk Through Activity
 - create html folder
 - open your text editor
+
 - new file save save as index.html
 - open your new folder using your text editor
-- !DOCTYPE 
-- 
+- !DOCTYPE
+-
 - html tags
 h1, h2
 p,
@@ -42,11 +43,12 @@ title  ol, ul, input checkbox
 - div
 class & id, comments
 
-###Compare HTML 4 with HTML 5 
+
+###Compare HTML 4 with HTML 5
 http://www.w3schools.com/html/html5_new_elements.asp
 http://itsuite.it.brighton.ac.uk/fsdl10/learningjournal/images/html5vshtml4.png
-- Advantage for disabilities, but most websites still use div way of layouts. 
-- just for example change the div header to header tag. 
+- Advantage for disabilities, but most websites still use div way of layouts.
+- just for example change the div header to header tag.
 
 ####extension Activies
 To have a look a websites
@@ -55,15 +57,16 @@ To draw your sketch own design and implement in html
 give 10 mins to complete
 
 
-LUNCH 
+LUNCH
 
 CSS 2.00PM
 
 ###Presentation
 - box model
+
 - positioning
 
-####Demo 
+####Demo
 - example css in folder
 
 ####Show what chrome tools
@@ -83,12 +86,13 @@ CSS 2.00PM
 - class selection and parents
 - element multiple selection
 
+
 ###Fixing CSS
 - play around with demo
 
 Coffee break
 
- 
+
 ###Return to your wirefame
 - give 5 mins to change and the get started
 - html for content
@@ -98,8 +102,8 @@ Coffee break
 
 stretch goals
 - google fonts
-- position 
-- hover over 
+- position
+- hover over
 
 Ask if they have domains already, or github domain.
 
