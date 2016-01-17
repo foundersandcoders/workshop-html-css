@@ -1,7 +1,7 @@
 #Introductary HTML & CSS Weekend Workshop
 Welcome to Founders and Coders
 
-###Saturday Workshop
+##Saturday Workshop
 ####Morning - HTML
 - Ice Breaker & Intro 60mins
 - HTML Talk
@@ -19,7 +19,7 @@ Welcome to Founders and Coders
 ####Build your own site
 - Building Your Wireframe with HTML and CSS
 
-#Day 2 Sunday
+##Sunday Workshop
 ####Morning - Responsive Design
 - Warm activity CSS Dinner
 - Responsive Design Talk
