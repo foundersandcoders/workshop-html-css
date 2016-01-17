@@ -1,33 +1,34 @@
 #Introductary HTML & CSS Weekend Workshop
 Welcome to Founders and Coders
 
-##Saturday Workshop
-###Morning HTML 
+###Saturday Workshop
+####Morning - HTML
 - Ice Breaker & Intro 60mins
 - HTML Talk
 - HTML Walk Through Activity
 - HTML 4 with HTML 5
 - extension Activies
 
-####LUNCH
+####Lunch
 
-###CSS
+####Afternoon - CSS 
 - CSS Presentation
 - CSS Demo
 - Fixing CSS
 
-###Build your own site
+####Build your own site
 - Building Your Wireframe with HTML and CSS
 
 #Day 2 Sunday
-- Morning Responsive 
+####Morning - Responsive Design
 - Warm activity CSS Dinner
 - Responsive Design Talk
 - Media Query Demo
 - Make your site responsive
 
-####LUNCH
+####Lunch
 
+####Afternoon - Github Pages Hosting
 - Github talk
 - Github hosting workshop
 
