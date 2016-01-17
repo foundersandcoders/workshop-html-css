@@ -30,7 +30,7 @@ walk through
 - create html folder
 - open your text editor
 -new file save save as index.html
- -DOCTYPE 
+ -DOCTYPE
 -html tages
 
 - h1, h2
@@ -45,7 +45,7 @@ walk through
 - input checkbox
 
 - images
-  from url 
+  from url
   from folder
 - link
 
@@ -53,11 +53,11 @@ walk through
 - class & id
 - comments
 
-Compare HTML 4 with HTML 5 
+Compare HTML 4 with HTML 5
 http://www.w3schools.com/html/html5_new_elements.asp
 http://itsuite.it.brighton.ac.uk/fsdl10/learningjournal/images/html5vshtml4.png
-- Advantage for disabilities, but most websites still use div way of layouts. 
-- just for example change the div header to header tag. 
+- Advantage for disabilities, but most websites still use div way of layouts.
+- just for example change the div header to header tag.
 
 extension
 To have a look a websites
@@ -77,13 +77,13 @@ Presentation
 - position
 - font and colours - use em
 
-Demo 
+Demo
 - Show what chrome tools
-- Do example-css folder follow that as tutorial from scratch and they can follow along. 
+- Do example-css folder follow that as tutorial from scratch and they can follow along.
 
 
-EXERCISE : 
-BUILD BOX MODEL GRID WIREFRAME. 
+EXERCISE :
+BUILD BOX MODEL GRID WIREFRAME.
 - blocks from 1 through 6. 30 mins/45 mins.
 
 - link in header
@@ -104,7 +104,7 @@ BUILD BOX MODEL GRID WIREFRAME.
 - class selection and parents
 - element multiple selection
 
-- sizing 
+- sizing
 
 http://flukeout.github.io/
 ———
@@ -115,8 +115,8 @@ feedback
 ———
 stretch goals
 - google fonts
-- position 
-- hover over 
+- position
+- hover over
 
 
 Day 2
