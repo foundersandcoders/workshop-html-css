@@ -28,25 +28,19 @@ http://alisonsandifer.com/
 - new file save save as index.html
 - open your new folder using your text editor
 - !DOCTYPE 
+- 
 - html tags
-
 h1, h2
 p,
 Head and body
 indentation and descendants
-title
-
-- ol, ul
-- input checkbox
+title  ol, ul, input checkbox
 
 - images
-  from url 
-  from folder
-- link
+  from url and from folder
 
 - div
-- class & id
-- comments
+class & id, comments
 
 ###Compare HTML 4 with HTML 5 
 http://www.w3schools.com/html/html5_new_elements.asp
