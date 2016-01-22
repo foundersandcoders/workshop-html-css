@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+}
+
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  width: 100%;
+  background-color: #FAEBDB;
+  font-family:sans-serif;
+
+}
+
+ul {
+ padding-right: 4em;
+}
+
+
+nav ul li {
+  display: inline;
+  padding: 5px;
+  text-decoration: none;
+}
+
+nav ul li:hover {
+  color: white;
+}
