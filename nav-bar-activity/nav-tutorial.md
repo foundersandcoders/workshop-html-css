@@ -7,11 +7,12 @@ First we are going to need to layout our HTML. We are going to make a simple nav
 ![Example Wireframe] (https://files.gitter.im/RachBLondon/F70a/Screen-Shot-2016-01-18-at-09.36.23.png)
 
 - create a new folder, and inside that folder create a file called index.html
-- create  a basic html outline (Atom will auto complete thisi for you if you type start to type html and press `enter` (you can use this trick for other html elements as well).
+- create  a basic html outline (Atom will auto complete this for you if you type start to type html and press `enter` (you can use this trick for other html elements as well).
 - We are going to use HTML5, so create a `<nav>` tab inside the body (remember to close the tags).
 
+
 Our Navbar has two main components, the image and the menu tabs.
-- create an `<img>` tag, inside you can link to this url https://files.gitter.im/RachBLondon/2jvS/logo-01.png  (you wont see the logo yet as it white).
+- create an `<img>` tag, inside you can link to this url  [https://files.gitter.im/RachBLondon/6a6O/logo.png] (https://files.gitter.im/RachBLondon/6a6O/logo.png). 
 - create an `<ul>` tag and fill in the list items as below;
 ```
       <ul>
@@ -21,32 +22,55 @@ Our Navbar has two main components, the image and the menu tabs.
         <li>Blog</li>
       </ul>
 ```
+###CSS
+If we look at our html layout using a browser, we can see that there are quite a few things we need to change to style the navbar. First lets change the ul, we want our menu items to display inline horozontally and with out the default bullet points.
+In your *style.css* file, select the *list items in the ul* and apply the following styling.
 
-
-####CSS 
-- Now, in the same folder create a file called style.css
-- Link your CSS file in the head of your index.html file
-  `    <link rel="stylesheet" href="style.css" media="screen" title="no title" charset="utf-8">`
-- Lets give the whole nave element a background colour and a height
 ```
-nav {
-  background-color: #e3e0cf;
-  height: 6em;
-}
-```
-- Now we want to change our menu items to diplay inline and take away the ugly bullet points, lets also change the font. To do this, select the `li`, inside the `ul` and add the following css.
-```
-{
+ {
   display: inline;
+  padding: 5px;
   text-decoration: none;
-  font-family: sans-serif;
 }
 ```
-- The menu items now diplay in row, but they are outside the navbar. This is because the `ul` element is set to `display : block` by default. Let's get rid of this by adding the following CSS to the UL elements:
+Here we have remove the default styling, and positioned the elements to display in line. I have also added some padding to give a bit of space around each `li` element.
+
+We want our navbar to span the whole page width, so let's set the width to  100%, lets also give it a background colour, and change the font.
 ```
-{
-  display: inline;
+ nav {
+  width: 100%;
+  background-color: #FAEBDB;
+  font-family:sans-serif;
+  }
+```
+
+Ok, we still need to position our elements in the navar.
+
+
+###CSS Flexbox
+To position our elements inside the nav we are going to use CSS Flexbox. You can can find a really good guide to [CSS Flexbox here](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
+
+Flexbox is a great tool to use for positioning which can be difficult in CSS.
+
+To use Flexbox, you need to select a parent element (for this example we will use `nav`). Select `nav` and add the following styling:
+`display: flex;` This will make it the container for flexbox.
+
+Great now our navbar is looking alot better, but we still need to move the menu items to the middle of the navbar. This is easy to do with flexbox, add to the parent element (`nav`) the flexbox styling of ` align-items: center;`, great now the image and the text should be both aligned in the middle.
+
+We can use flexbox to move our menu tabs over to the right, again this is easy with flexbox. Just add the follow styling to `nav`, `  justify-content: space-between;`.
+
+###Touching up
+Our navbar is now looking pretty good, but you might want to add some right-hand padding to the `ul` element. Select this element and give it ` padding-right:` styling of your choice.
+
+You may also want to give the `ul li` elements a hover over effect. You can do this buy adding:
+```
+nav ul li:hover {
+  color: white;
 }
 ```
+
+
+Now feel free to change the colour, font or image of your navbar. 
+
   
 
