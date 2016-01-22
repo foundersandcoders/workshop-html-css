@@ -1,6 +1,6 @@
 #Navbar Tutorial
 
-Follow this tutorial to make a simple Navbar.
+Follow this tutorial to make a simple navbar. If you get stuck you can have a look at the example in this directory (but try and work through the tutorial without it as much as you can).
 
 ###HTML
 First we are going to need to layout our HTML. We are going to make a simple navbar that looks like this:
@@ -12,7 +12,7 @@ First we are going to need to layout our HTML. We are going to make a simple nav
 
 
 Our Navbar has two main components, the image and the menu tabs.
-- create an `<img>` tag, inside you can link to this url  [https://files.gitter.im/RachBLondon/6a6O/logo.png] (https://files.gitter.im/RachBLondon/6a6O/logo.png). 
+- create an `<img>` tag, inside you can link to this url  [https://files.gitter.im/RachBLondon/6a6O/logo.png] (https://files.gitter.im/RachBLondon/6a6O/logo.png), or use your own image if you prefer.
 - create an `<ul>` tag and fill in the list items as below;
 ```
       <ul>
@@ -22,8 +22,9 @@ Our Navbar has two main components, the image and the menu tabs.
         <li>Blog</li>
       </ul>
 ```
+
 ###CSS
-If we look at our html layout using a browser, we can see that there are quite a few things we need to change to style the navbar. First lets change the ul, we want our menu items to display inline horozontally and with out the default bullet points.
+If we look at our html layout using a browser, we can see that there are quite a few things we need to change to style the navbar. First lets change the ul elements, we want our menu items to display inline horizontally and with out the default bullet points.
 In your *style.css* file, select the *list items in the ul* and apply the following styling.
 
 ```
