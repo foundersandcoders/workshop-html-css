@@ -1,6 +1,6 @@
 #Navbar Tutorial
 
-Follow this tutorial to make a simple navbar. If you get stuck you can have a look at the example in this directory (but try and work through the tutorial without it as much as you can).
+Follow this tutorial to make a simple navbar. If you get stuck you can have a look at the example in [this directory](https://github.com/foundersandcoders/workshop-html-css/tree/master/nav-bar-activity/nav-example) (but try and work through the tutorial without it as much as you can).
 
 ###HTML
 First we are going to need to layout our HTML. We are going to make a simple navbar that looks like this:
