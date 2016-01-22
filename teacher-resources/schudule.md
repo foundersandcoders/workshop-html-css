@@ -92,6 +92,9 @@ CSS 2.00PM
 
 Coffee break
 
+###Navbar Tutorial Activit
+- Students work through [navbar tutorial in pairs](https://github.com/foundersandcoders/workshop-html-css/blob/master/nav-bar-activity/nav-tutorial.md).
+
 
 ###Return to your wirefame
 - give 5 mins to change and the get started
