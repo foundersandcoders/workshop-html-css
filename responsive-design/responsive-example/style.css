@@ -111,16 +111,4 @@ h2 {
   width: 700px;
 }
 
-@media (max-width:600px ) {
-  .about-image{
-    display: inline;
-  }
 
-  .col-2 {
-    width: 100%;
-    display: inline;
-  }
-  .col-2 h3 {
-    text-align: center;
-  }
-}
