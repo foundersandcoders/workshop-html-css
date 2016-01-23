@@ -122,10 +122,28 @@ http://flukeout.github.io/
 Sketch out mobile of your website.
 
 ###Media Query Demo
+- ask students to copy and paste example in to their folder
 - Chrome tool Device View
 - Add viewport tag
-- media queries
-- change px to ems and %
+- media queries explaination, 
+- add media queries to example
+```
+
+@media (max-width:600px ) {
+  .about-image{
+    display: inline;
+  }
+
+  .col-2 {
+    width: 100%;
+    display: inline;
+  }
+  .col-2 h3 {
+    text-align: center;
+  }
+}
+```
+- talk about change px to ems and %
 
 - Go back to Dev tools to show design
 
@@ -137,6 +155,5 @@ Sketch out mobile of your website.
 Git hub demo
 
 Finish up time and extension activity
-
 
 [link to slides](https://docs.google.com/presentation/d/19hpTnLNG8hfwcV80mPMmBkUWYAmEnVDy4RYFTrgrnuU/edit)
