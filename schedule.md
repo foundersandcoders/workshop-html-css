@@ -20,6 +20,7 @@ Welcome to Founders and Coders
 - Building Your Wireframe with HTML and CSS
 
 ##Sunday Workshop
+Warm Up [CSS Diner] (http://flukeout.github.io/)
 ####Morning - Responsive Design
 - Warm activity CSS Dinner
 - Responsive Design Talk
