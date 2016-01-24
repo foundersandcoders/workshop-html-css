@@ -1,0 +1,135 @@
+* {
+  margin: 0;
+}
+a{
+  text-decoration: none;
+}
+
+body{
+    width: 100%;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+
+  background-color: #957D6F;
+  font-family:sans-serif;
+}
+
+ul {
+ padding-right: 4em;
+}
+
+nav ul li {
+  display: inline;
+  padding: 5px;
+  text-decoration: none;
+}
+
+nav ul li:hover {
+  color: white;
+}
+
+
+header {
+  height: 70vh;
+  background-image: url('https://images.unsplash.com/photo-1444044205806-38f3ed106c10?crop=entropy&dpr=0.75&fit=crop&fm=jpg&h=975&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1925');
+}
+
+header h1 {
+  padding-top: 30vh;
+  text-align: center;
+  font-family: 'Poiret One', sans-serif;
+  color: white;
+  font-size:70px;
+}
+
+
+h2 {
+  font-family: 'Poiret One', sans-serif;
+  color: #957D6F;
+  font-size: 30px;
+  text-align: center;
+}
+
+.about {
+  width: 100%;
+  text-align: center;
+}
+.about-image{
+  width: 30%;
+  display: inline-block;
+  padding: 15px;
+}
+.about-image img {
+  height: 200px;
+  width: 200px;
+  border-radius: 200%;
+}
+.about p {
+  padding: 15px;
+}
+
+
+.press {
+  background-color: #957D6F;
+  height: 300px;
+
+}
+
+.press h2 {
+  color: white;
+}
+
+.press h3 {
+  margin:100px;
+  font-style: italic;
+  text-align: center;
+  color: white;
+  font-size: 40px;
+}
+
+.blog img{
+   width: 300px;
+   text-align: center;
+}
+
+.col-2 {
+  width: 37%;
+  display: inline-block;
+}
+.col-2 p {
+  padding: 15px;
+}
+ .center-img {
+  background: url('https://images.unsplash.com/photo-1450849608880-6f787542c88a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=b256aa5102c408322cdb99ce6a6a0f53') no-repeat center center;
+  display: inline-block;
+  height: 300px;
+  width: 700px;
+
+  /*add this line to stop the image size being greater than the layout*/
+  max-width: 100%;
+}
+
+@media (max-width:600px ) {
+  .about-image{
+    display: inline;
+  }
+
+  .col-2 {
+    width: 100%;
+    display: inline;
+  }
+  .col-2 h3 {
+    text-align: center;
+  }
+
+  ul {
+    padding-right: 0px;
+  }
+
+
+}
