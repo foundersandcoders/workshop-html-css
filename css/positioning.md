@@ -17,6 +17,8 @@ Absolute positioning is a bit confusing. Basically the browser will look back up
 
 Because absolute positioning is based on the positioning of parent elements, this can make it difficult to workout. You will have to investigate the positioning of an elements parent.
 
+Still confused? [This blog post does a really good job of explaining absolute and relative positining](https://css-tricks.com/absolute-positioning-inside-relative-positioning/).
+
 ###Fixed positioning
 Elements are fixed in a static position to the viewport (ie the window you can see on the browser).
 
