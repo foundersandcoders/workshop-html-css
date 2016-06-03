@@ -49,6 +49,14 @@ http://www.w3schools.com/html/html5_new_elements.asp
 
 - Advantage for disabilities, but most websites still use div way of layouts.
 - just for example change the div header to header tag.
+- 
+
++++ Learning Objective - 
+One html page conatining 
+- title
+- heading
+- paragraph
+- and image
 
 ####extension Activies
 To have a look a websites
@@ -58,6 +66,8 @@ give 10 mins to complete
 
 
 LUNCH
+
+Warm up - HTML sorting game
 
 CSS 2.00PM
 
@@ -92,7 +102,7 @@ CSS 2.00PM
 
 Coffee break
 
-###Navbar Tutorial Activit
+###Navbar Tutorial Activity
 - Students work through [navbar tutorial in pairs](https://github.com/foundersandcoders/workshop-html-css/blob/master/nav-bar-activity/nav-tutorial.md).
 
 
