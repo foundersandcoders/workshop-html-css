@@ -46,7 +46,7 @@ class & id, comments
 
 ###Compare HTML 4 with HTML 5
 http://www.w3schools.com/html/html5_new_elements.asp
-http://itsuite.it.brighton.ac.uk/fsdl10/learningjournal/images/html5vshtml4.png
+
 - Advantage for disabilities, but most websites still use div way of layouts.
 - just for example change the div header to header tag.
 
