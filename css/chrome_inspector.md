@@ -1,6 +1,6 @@
 ##Chrome Inspector (Dev Tools)
 
-When writing CSS Chrome developer tools are your best friend (other browsers offer a similar service).
+When writing CSS Chrome developer tools are your best friend (other browsers offer a similar services).
 They will allow you to:
 - look at the structure of your HTML (including classes and styles that have been applied)
 - See which CSS styles are being applied
