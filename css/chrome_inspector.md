@@ -10,8 +10,8 @@ They will allow you to:
 .... and much more
 
 For more information
--[Offical Documentation](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
--[Six Tips for Chrome Dev Tools] (https://css-tricks.com/six-tips-for-chrome-devtools/)
+- [Offical Documentation](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
+- [Six Tips for Chrome Dev Tools] (https://css-tricks.com/six-tips-for-chrome-devtools/)
 
 To open Chrome Dev Tools (also known as chrome inspector) you either:
 ![type commands](https://files.gitter.im/foundersandcoders/html-june/LupJ/Screen-Shot-2016-06-03-at-17.50.44.png)
