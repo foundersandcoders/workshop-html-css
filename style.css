@@ -1,0 +1,118 @@
+* {
+	box-sizing: border-box;
+}
+
+/* http://www.w3schools.com/cssref/css3_pr_box-sizing.asp
+ */
+
+body {
+	background-color:  #99c2ff;
+	font-family: helvetica;
+}
+
+h1 {
+	color:#a366ff;
+}
+h2 {
+	color:blue;
+}
+
+
+
+
+.mast-head {
+    background-image: url("https://images.unsplash.com/photo-1454897834822-1ece264a5d89?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=3a5615c0bc77123ece2a2663e2640341");
+    background-size: cover;
+    background-position: center;
+    height: 40em;
+    padding: 10em 0;
+    border-top:5px solid white;
+}
+
+footer,
+.mast-head p,
+.mast-head h1 {
+    color: white;
+    text-align: center;
+}
+
+.mast-head p {
+    font-size: 3em;
+}
+
+.mast-head h1 {
+    font-size: 8em;
+}
+
+.intro-section,
+.from-section,
+.about-section {
+    max-width: 40em;
+    margin: 2em auto;
+ 	color: white;
+}
+
+
+.navbar {
+	width:100%;
+	background-color: white;
+	color: blue;
+	height: 5em;
+	margin: auto;
+}
+.navbar li {
+	 display: inline;
+	 margin-left:2em;
+	 margin: 1em;
+	 padding-top: 2em;
+}
+
+.nav-bar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+.nav-item {
+    float: left;
+}
+
+.nav-bar li a {
+    display: block;
+    color: grey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav-item a:hover {
+    background-color: pink;
+}
+.social {
+	height: 4em;
+}
+.social > li {
+	display: inline;
+	marign:1em;
+	text-decoration: none;
+	
+
+}
+.social li a {
+	marign:1em;
+	text-decoration: none;
+	display: inline-block;
+}
+
+
+@media only screen and (max-device-width: 500px) {
+    .mast-head {
+        padding: 6em 0;
+    }
+    .mast-head p, .mast-head h1 {
+        font-size: 2em;
+        color : blue;
+    }
+}
