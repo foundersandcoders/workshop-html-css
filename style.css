@@ -110,9 +110,10 @@ footer,
 @media only screen and (max-device-width: 500px) {
     .mast-head {
         padding: 6em 0;
+        height: 80em;
     }
     .mast-head p, .mast-head h1 {
-        font-size: 2em;
+        font-size: 10em;
         color : blue;
     }
 }
