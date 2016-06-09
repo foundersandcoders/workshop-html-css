@@ -1,4 +1,4 @@
-#Follow-up  Making a Personal Responsive Site -  3-4th June   
+#Follow-up  Making a Personal Responsive Site   3-4th June   
 
 ##Further Reading 
 
@@ -10,7 +10,7 @@
 
 [Positioning Intro](http://www.w3schools.com/css/css_positioning.asp) - [More in-depth](https://developer.mozilla.org/en/docs/Web/CSS/position)
 
-[Float Clear and Overflow](http://www.w3schools.com/css/css_float.asp) - [More- indepth](https://css-tricks.com/all-about-floats/)
+[Float Clear and Overflow](http://www.w3schools.com/css/css_float.asp) - [More in-depth](https://css-tricks.com/all-about-floats/)
 
 [Font Awesome Icons](http://fontawesome.io/get-started/)
 
