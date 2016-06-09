@@ -14,9 +14,10 @@
 
 [Font Awesome Icons](http://fontawesome.io/get-started/)
 
+[HTML 5 Tags](https://developer.mozilla.org/en/docs/Web/HTML/Element)
+
 ##Spruce it up! 
 
 So you've made a basic responsive site but at the moment it could stil do with some sprucing up! Why not add a profile image. 
-Split some of the sections into two colums, so you can have an image on one side an text on the other. What about the social media 
-links shall we add some icons to these ( use font awesome maybe). How about the back ground colour maybe add a gradient. 
+Split some of the sections into two columns, so you can have an image on one side and text on the other. What about the social media links shall we add some icons to these ( use font awesome maybe). How about the back ground colour maybe add a gradient. 
 You could possibliy change the background colour of each section.  Add a google map maybe showing where you're from.
