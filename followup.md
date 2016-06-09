@@ -2,11 +2,16 @@
 
 ##Further Reading 
 
-[Brief Intro to View Port META TAG](http://www.w3schools.com/css/css_rwd_viewport.asp)[More In depth](https://developer.mozilla.org/en/docs/Mozilla/Mobile/Viewport_meta_tag)
+[Brief Intro to View Port META TAG](http://www.w3schools.com/css/css_rwd_viewport.asp) - [More in-depth](https://developer.mozilla.org/en/docs/Mozilla/Mobile/Viewport_meta_tag)
+
 [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)
-[Boxsizing Intro](http://www.w3schools.com/cssref/css3_pr_box-sizing.asp) [More In depth](https://developer.mozilla.org/en/docs/Web/CSS/box-sizing)
-[Positioning Intro](http://www.w3schools.com/css/css_positioning.asp)[More indepth](https://developer.mozilla.org/en/docs/Web/CSS/position)
-[Float Clear and Overflow](http://www.w3schools.com/css/css_float.asp) [More indepth](https://css-tricks.com/all-about-floats/)
+
+[Boxsizing Intro](http://www.w3schools.com/cssref/css3_pr_box-sizing.asp) - [More in-depth](https://developer.mozilla.org/en/docs/Web/CSS/box-sizing)
+
+[Positioning Intro](http://www.w3schools.com/css/css_positioning.asp) - [More in-depth](https://developer.mozilla.org/en/docs/Web/CSS/position)
+
+[Float Clear and Overflow](http://www.w3schools.com/css/css_float.asp) - [More- indepth](https://css-tricks.com/all-about-floats/)
+
 [Font Awesome Icons](http://fontawesome.io/get-started/)
 
 ##Spruce it up! 
