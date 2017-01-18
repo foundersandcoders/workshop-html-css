@@ -7,8 +7,10 @@ I think html is an easier topic than CSS, so perhaps we should do html and a tin
 ###start
 
 10-15 mins settling time with materials and GitHub repo on board. Students need to make sure they have:
-    * Text editor (Atom or Sublime) down load if not
-    * https://github.com/foundersandcoders/workshop-html-css
+
+    - Text editor (Atom or Sublime) down load if not.
+    - https://github.com/foundersandcoders/workshop-html-css
+    - [sublime](https://www.sublimetext.com/3)
 
 * Intro to FAC
 * Task - Html sort card tasks
