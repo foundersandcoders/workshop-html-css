@@ -8,7 +8,7 @@ I think html is an easier topic than CSS, so perhaps we should do html and a tin
 
 10-15 mins settling time with materials and GitHub repo on board.
 Students need to make sure they have:
-- Text editor (Atom or[sublime](https://www.sublimetext.com/3)) down load if 
+- Text editor (Atom or [Sublime](https://www.sublimetext.com/3)) down load if 
 - https://github.com/foundersandcoders/workshop-html-css
 
 
