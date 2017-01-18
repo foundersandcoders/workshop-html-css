@@ -22,8 +22,8 @@ Students need to make sure they have:
     
 3. Talk : html basics
     * What tags look like - open, closing and self closing.
-    * html attributes. 
-    * How tags contain other tags - touch on parent child relationship -indentation. 
+    * html attributes, suchas class, id's, src, alt....
+    * How tags contain other tags - touch on parent child relationship and indentation. 
     * What head and body tags are, and what's contained in them. 
 
 4. Task : html basic
@@ -40,7 +40,8 @@ Students need to make sure they have:
 ###Easy intro to  CSS
 * Introduce CSS for style
     1. Task : attach a CSS Style sheet and change text color using html selector. Walk through this quickly then get them to do in pairs.
-    - extentions try hex, rgb and named colours - W3 reference
+    - Intro what css selectors are:- class, id, tag names.
+    - extentions try hex, rgb and named colours - W3 reference 
 
 ##LUNCH
 
