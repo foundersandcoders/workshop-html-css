@@ -3,7 +3,7 @@
 }
 
 
-nav {
+.navbar {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -19,12 +19,12 @@ ul {
 }
 
 
-nav ul li {
+.navbar ul li {
   display: inline;
   padding: 5px;
   text-decoration: none;
 }
 
-nav ul li:hover {
+.navbar ul li:hover {
   color: white;
 }

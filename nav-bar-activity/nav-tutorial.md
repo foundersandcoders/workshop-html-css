@@ -8,7 +8,7 @@ First we are going to need to layout our HTML. We are going to make a simple nav
 
 - create a new folder, and inside that folder create a file called index.html
 - create  a basic html outline (Atom will auto complete this for you if you type start to type html and press `enter` (you can use this trick for other html elements as well).
-- We are going to use HTML5, so create a `<nav>` tab inside the body (remember to close the tags).
+- Create a `<div>` and add the class `.navbar`.
 
 
 Our Navbar has two main components, the image and the menu tabs.
