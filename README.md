@@ -1,4 +1,4 @@
 # workshop-html-css
 An introductory weekend workshop to HTML &amp; CSS
 
-[Slides can be found here](https://docs.google.com/presentation/d/19hpTnLNG8hfwcV80mPMmBkUWYAmEnVDy4RYFTrgrnuU/edit)
+[Slides can be found here](https://drive.google.com/file/d/0B73woEu0t2mqaUV6bEdJMy03VjQ/view?usp=sharing)
