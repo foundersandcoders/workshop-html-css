@@ -49,6 +49,6 @@ Students need to make sure they have:
 
     1. CSS diner.
     2. Display and Positioning slides. 
-    3. [Positioning Pirates.](http://codepen.io/tormod17/pen/WRpBpR?editors=1100)
+    3. Positioning [game]( http://codepen.io/tormod17/pen/WRpBpR?editors=1100 )
 
 ###Build your own website. 
