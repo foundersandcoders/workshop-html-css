@@ -14,7 +14,7 @@ Students need to make sure they have:
 
 ## Intro to FAC
 1. Task - Html sort card tasks
-    * Tags: html, head, title, body, h1, h2, p, footer, meta, link, script, header, img
+    * Tags: html, head, title, body, h1, h2, p, footer.
 2. Talk 
     -    What HTML, CSS & JS are for (skeleton, clothes, movement)
     -    Static sites - what they are, what they are used for
