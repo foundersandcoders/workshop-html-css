@@ -46,9 +46,8 @@ Students need to make sure they have:
 ##LUNCH
 
 ###CSS Continued
-
-    1. CSS diner.
-    2. Display and Positioning slides. 
-    3. Positioning [game]( http://codepen.io/tormod17/pen/WRpBpR?editors=1100 )
+   - CSS diner.
+   - Display and Positioning slides. 
+   - Positioning [game](http://codepen.io/tormod17/pen/WRpBpR?editors=1100)
 
 ###Build your own website. 
