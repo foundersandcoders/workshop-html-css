@@ -56,6 +56,7 @@ You can add a id or a class to a html tag. You can only use an id once (ie they 
 ##HTML 5
 There are a number of html tags you can use to make your code more accessible. You don't need to remember them all but [here is a link with the full list of available tags](http://www.w3schools.com/html/html5_new_elements.asp)
 ![html 5 vs html 5](http://itsuite.it.brighton.ac.uk/fsdl10/learningjournal/images/html5vshtml4.png)
+![Another useful HTML 5 resource](http://htmlreference.io/)
 
 ##Links
 Some useful resources on html can be found at:
