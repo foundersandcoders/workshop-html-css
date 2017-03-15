@@ -1,35 +1,35 @@
-#Introductary HTML & CSS Weekend Workshop
+# Introductary HTML & CSS Weekend Workshop
 Welcome to Founders and Coders
 
-##Saturday Workshop
-####Morning - HTML
+## Saturday Workshop
+#### Morning - HTML
 - Ice Breaker & Intro 60mins
 - HTML Talk
 - HTML Walk Through Activity
 - HTML 4 with HTML 5
 - extension Activies
 
-####Lunch
+#### Lunch
 
-####Afternoon - CSS 
+#### Afternoon - CSS 
 - CSS Presentation
 - CSS Demo
 - Fixing CSS
 
-####Build your own site
+#### Build your own site
 - Building Your Wireframe with HTML and CSS
 
-##Sunday Workshop
+## Sunday Workshop
 Warm Up [CSS Diner] (http://flukeout.github.io/)
-####Morning - Responsive Design
+#### Morning - Responsive Design
 - Warm activity CSS Dinner
 - Responsive Design Talk
 - Media Query Demo
 - Make your site responsive
 
-####Lunch
+#### Lunch
 
-####Afternoon - Github Pages Hosting
+#### Afternoon - Github Pages Hosting
 - Github talk
 - Github hosting workshop
 
