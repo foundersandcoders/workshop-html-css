@@ -14,3 +14,4 @@
 6. CSS Positioning 
 7. CSS Positioning Game
 8. Build your own site
+9. Host your site for free on gh-pages.
