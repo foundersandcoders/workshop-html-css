@@ -1,10 +1,10 @@
     
-##Morning 
+## Morning 
 
 I think html is an easier topic than CSS, so perhaps we should do html and a tiny bit of CSS in the morning - and leave the afternoon for the more meaty (and annoying) CSS topics like position etc.
 
 
-###start
+### start
 
 10-15 mins settling time with materials and GitHub repo on board.
 Students need to make sure they have:
@@ -37,17 +37,17 @@ Students need to make sure they have:
 6. Explanation - images - walk students through how to create an image folder and save an image
     * Task - students use W3 schools to work out how to load an image from another server.
 
-###Easy intro to  CSS
+### Easy intro to  CSS
 * Introduce CSS for style
     1. Task : attach a CSS Style sheet and change text color using html selector. Walk through this quickly then get them to do in pairs.
     - Intro what css selectors are:- class, id, tag names.
     - extentions try hex, rgb and named colours - W3 reference 
 
-##LUNCH
+## LUNCH
 
-###CSS Continued
+### CSS Continued
    - CSS diner.
    - Display and Positioning slides. 
    - Positioning [game](http://codepen.io/tormod17/pen/WRpBpR?editors=1100)
 
-###Build your own website. 
+### Build your own website. 
