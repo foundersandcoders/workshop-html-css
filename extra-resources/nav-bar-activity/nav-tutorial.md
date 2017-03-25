@@ -1,8 +1,8 @@
-#Navbar Tutorial
+# Navbar Tutorial
 
 Follow this tutorial to make a simple navbar. If you get stuck you can have a look at the example in [this directory](https://github.com/foundersandcoders/workshop-html-css/tree/master/nav-bar-activity/nav-example) (but try and work through the tutorial without it as much as you can).
 
-###HTML
+### HTML
 First we are going to need to layout our HTML. We are going to make a simple navbar that looks like this:
 ![Example Wireframe] (https://files.gitter.im/RachBLondon/F70a/Screen-Shot-2016-01-18-at-09.36.23.png)
 
@@ -23,7 +23,7 @@ Our Navbar has two main components, the image and the menu tabs.
       </ul>
 ```
 
-###CSS
+### CSS
 If we look at our html layout using a browser, we can see that there are quite a few things we need to change to style the navbar. First lets change the ul elements, we want our menu items to display inline horizontally and with out the default bullet points.
 In your *style.css* file, select the *list items in the ul* and apply the following styling.
 
@@ -48,7 +48,7 @@ We want our navbar to span the whole page width, so let's set the width to  100%
 Ok, we still need to position our elements in the navar.
 
 
-###CSS Flexbox
+### CSS Flexbox
 To position our elements inside the nav we are going to use CSS Flexbox. You can can find a really good guide to [CSS Flexbox here](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
 
 Flexbox is a great tool to use for positioning which can be difficult in CSS.
@@ -60,7 +60,7 @@ Great now our navbar is looking alot better, but we still need to move the menu 
 
 We can use flexbox to move our menu tabs over to the right, again this is easy with flexbox. Just add the follow styling to `nav`, `  justify-content: space-between;`.
 
-###Touching up
+### Touching up
 Our navbar is now looking pretty good, but you might want to add some right-hand padding to the `ul` element. Select this element and give it ` padding-right:` styling of your choice.
 
 You may also want to give the `ul li` elements a hover over effect. You can do this buy adding:
